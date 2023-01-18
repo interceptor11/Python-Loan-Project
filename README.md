@@ -3,8 +3,12 @@
 Introduction - Loans dataset aims to identify variables which indicate if a
 person is likely to default, which can be used for identifying the risky loan
 applicants to avoid any financial loss to the company.
+
+
 Dataset Description - It contains the complete loan data for all loans
 issued through the time period 2007 to 2011.
+
+
 Data Dictionary -
 1.annual_inc - The self-reported annual income provided by the borrower
 during registration.
@@ -38,6 +42,8 @@ file
 19.total_pymnt_inv -Payments received to date for portion of total amount
 funded by investors
 20.total_rec_int -Interest received to date
+
+
 Questions -
 1. Import the dataset and understand it.
 2. List down the number of rows and columns.
